@@ -1,7 +1,7 @@
 # 🍏 GraphRAG: KG-Enhanced LLM
 This repository contains my investigations of recent research papers related to Graph RAG, conducted during July to August 2024.
 
-- Initially, I practiced the basic implementations of deep learning by following the *Dive into Deep Learning* book ([link](https://github.com/ohmyksh/d2l-practice)).  
+- Initially, I practiced the basic implementations of deep learning by following the *Dive into Deep Learning* book ([link](https://github.com/ohmyksh/d2l-implementation)).  
 - Following that, I surveyed major and recent papers in the area of graph RAG, which I am particularly interested in, and selected a few for deeper analysis.
 
 ### 🤔 Knowledge Graph + LLM? 
